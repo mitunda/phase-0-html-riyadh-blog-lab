@@ -9,8 +9,8 @@ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  /* background-image: linear-gradient(to right,rgb(190, 153, 153), rgb(176, 226, 176)) */
+  font-family:'Times New Roman', Times, serif
 }
 
 .wrapper {
@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #589612;
 }
 
 h1 {
